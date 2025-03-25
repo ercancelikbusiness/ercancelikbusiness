@@ -4,7 +4,7 @@
 - 💻 Frontend & Backend geliştiricisiyim
 - 📚 Sürekli yeni teknolojiler öğreniyorum
  
-##  GitHub üzerinde paylaştığım Projelerim  ve Teknolojiler:
+##  GitHub üzerinde paylaştığım Projelerim  ve Teknolojiler
 
 - [TypeScript-Learning](https://github.com/ercancelikbusiness/TypeScript-Learning) -> Sıfırdan TypeScript Öğreten Repo'm
 - [Java-Learning-Projects](https://github.com/ercancelikbusiness/Java-Learning-Projects) -> Sıfırdan Java  Öğreten Repo'm
