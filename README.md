@@ -15,6 +15,8 @@
 - [HTML](https://github.com/ercancelikbusiness/HTML-Project-) -> Sıfırdan HTML  Öğreten Repo'm
 
   ## 📫 Bana Ulaşın
+- 📄 [Güncel Özgeçmiş(CV)’me buradan ulaşabilirsiniz](https://github.com/ercancelikbusiness/Ercan-Celik-CV/raw/main/ErcanCelikCVGuncell.pdf)
+- 📄 [Güncel Özgeçmiş(CV)’me buradan ulaşabilirsiniz](https://github.com/ercancelikbusiness/Ercan-Celik-CV/blob/main/ErcanCelikCVGuncell.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ercan-çelik-7b13a9324)
 - ✉️ [E-Posta](mailto:ercancelikbusiness@gmail.com) -> ercancelikbusiness@gmail.com
 
