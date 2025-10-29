@@ -23,7 +23,7 @@ CV’me aşağıdaki bağlantılardan ulaşabilirsiniz:
 - ⬇️ [İndir (PDF olarak indir)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/raw/main/ErcanCelikCVGuncell.pdf)
 
 
-  ## 📫 Bana Ulaşın
+## 📫 Bana Ulaşın
 - 💼 [LinkedIn](https://www.linkedin.com/in/ercan-çelik-7b13a9324)
 - ✉️ [E-Posta](mailto:ercancelikbusiness@gmail.com) -> ercancelikbusiness@gmail.com
 
