@@ -17,7 +17,7 @@
 
 ## 📄 Özgeçmiş (CV)
 
-CV’me aşağıdaki bağlantılardan ulaşabilirsiniz:
+CV’ye aşağıdaki bağlantılardan ulaşabilirsiniz:
 
 - 🔍 [Önizleme (GitHub üzerinde görüntüle)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/blob/main/ErcanCelikCVGuncell.pdf)
 - ⬇️ [İndir (PDF olarak indir)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/raw/main/ErcanCelikCVGuncell.pdf)
