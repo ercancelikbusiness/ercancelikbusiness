@@ -19,8 +19,8 @@
 
 CV’ye aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-- 🔍 [Önizleme (GitHub üzerinde görüntüle)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/blob/main/ErcanCelikCVGuncell.pdf)
-- ⬇️ [İndir (PDF olarak indir)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/raw/main/ErcanCelikCVGuncell.pdf)
+- 🔍 [Önizleme (GitHub üzerinde görüntüle)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/blob/main/Ercan_Celik_CV.pdf)
+- ⬇️ [İndir (PDF olarak indir)](https://github.com/ercancelikbusiness/Ercan-Celik-CV/raw/main/Ercan_Celik_CV.pdf)
 
 
 ## 📫 Bana Ulaşın
