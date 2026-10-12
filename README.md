@@ -6,6 +6,7 @@
  
 ##  GitHub üzerinde paylaştığım Projelerim  ve Teknolojiler
 
+- [e-ticaret-projem](https://github.com/ercancelikbusiness/e-ticaret-projem) -> Next.js + TypeScript + Supabase + İyzico (3D Secure) ile geliştirdiğim full-stack e-ticaret sitem — sepet, ödeme, admin panel, üyelik sistemi. Canlı: [e-ticaret-projem.vercel.app](https://e-ticaret-projem.vercel.app)
 - [MSSQL-Learning](https://github.com/ercancelikbusiness/MSSQL-Learning) -> Sıfırdan MS SQL(Veritabanı) Öğreten Repo'm
 - [TypeScript-Learning](https://github.com/ercancelikbusiness/TypeScript-Learning) -> Sıfırdan TypeScript Öğreten Repo'm
 - [Java-Learning-Projects](https://github.com/ercancelikbusiness/Java-Learning-Projects) -> Sıfırdan Java  Öğreten Repo'm
