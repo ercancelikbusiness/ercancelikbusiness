@@ -9,7 +9,7 @@ Full-stack developer — Türkiye'deki işletmeler için uçtan uca e-ticaret pl
 - 🛒 **Vitrin + Katalog** — koyu tema responsive UI, hero video, faset filtreler, renk/beden varyantları, beden tablosu + "Bedenini Bul" sihirbazı
 - 💳 **Ödeme** — İyzico CheckoutForm + 3D Secure + taksit; elle HMAC imzalama (SDK'sız), imza+tutar+fraud doğrulaması, idempotent callback
 - 📦 **Kargo** — Tüm taşıyıcılar tek panelden (Yurtiçi, MNG, Aras, Hepsijet…): teklif→barkod→etiket→webhook→teslim mailleri, iade kargo kodu
-- 🧾 **Fatura** — BirFatura e-Arşiv/e-Fatura otomatik kesim + PDF maili
+- 🧾 **Fatura** — e-Arşiv/e-Fatura otomatik kesim + müşteriye PDF maili
 - 📱 **Üyelik** — Telefon OTP (Netgsm) + e-posta, adres defteri, favoriler, iade talebi, destek
 - 🛠️ **Admin Panel** — sipariş/ürün/stok/üye/destek yönetimi, Telegram anlık bildirim + günlük sağlık raporu
 - 🔒 **Uyum** — KVKK çerez onayı, Turnstile, rate limit, RLS, Sentry; GA4 + Meta Pixel + CAPI + Clarity
