@@ -38,7 +38,7 @@ Full-stack developer — Türkiye'deki işletmeler için uçtan uca e-ticaret pl
 
 ## 📫 Bana Ulaşın
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ercan-çelik-7b13a9324)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ercancelikdev)
 - ✉️ [E-Posta](mailto:ercancelikbusiness@gmail.com) — ercancelikbusiness@gmail.com
 - 📸 [Instagram](https://www.instagram.com/ercanclk__/)
 - 🌐 [Portföy](https://ercancelikbusiness.github.io)
