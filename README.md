@@ -4,7 +4,7 @@ Full-stack developer — Türkiye'deki işletmeler için uçtan uca e-ticaret pl
 
 ## 🚀 Öne Çıkan Proje: VIXI Wear E-Commerce Platform
 
-[vixiwear.com](https://vixiwear.com) için sıfırdan geliştirdiğim, **canlıda çalışan** üretim e-ticaret sistemi:
+[vixiwear.com](https://vixiwear.com) için sıfırdan geliştirdiğim, **canlıda çalışan** e-ticaret sistemi:
 
 - 🛒 **Vitrin + Katalog** — koyu tema responsive UI, hero video, faset filtreler, renk/beden varyantları, beden tablosu + "Bedenini Bul" sihirbazı
 - 💳 **Ödeme** — İyzico CheckoutForm + 3D Secure + taksit; elle HMAC imzalama (SDK'sız), imza+tutar+fraud doğrulaması, idempotent callback
@@ -16,9 +16,7 @@ Full-stack developer — Türkiye'deki işletmeler için uçtan uca e-ticaret pl
 
 **Stack:** Next.js 16 · TypeScript · Tailwind v4 · Supabase · Zustand · Vercel
 
-📖 **Case Study:** [vixi-ecommerce-case-study](https://github.com/ercancelikbusiness/vixi-ecommerce-case-study) — mimari, ekran görüntüleri, teknik kararlar
-🌐 **Portföy:** [ercancelikbusiness.github.io](https://ercancelikbusiness.github.io)
-🔗 **Canlı site:** [vixiwear.com](https://vixiwear.com)
+📖 [Case Study](https://github.com/ercancelikbusiness/vixi-ecommerce-case-study) · 🌐 [Portföy](https://ercancelikbusiness.github.io) · 🔗 [Canlı site: vixiwear.com](https://vixiwear.com)
 
 ## 📚 Diğer Projelerim
 
