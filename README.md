@@ -2,7 +2,7 @@
 
 Full-stack developer — Türkiye'deki işletmeler için uçtan uca e-ticaret platformları geliştiriyorum.
 
-## 🚀 Öne Çıkan Proje: VIXI E-Commerce Platform
+## 🚀 Öne Çıkan Proje: VIXI Wear E-Commerce Platform
 
 [vixiwear.com](https://vixiwear.com) için sıfırdan geliştirdiğim, **canlıda çalışan** üretim e-ticaret sistemi:
 
