@@ -12,7 +12,7 @@ Full-stack developer — Türkiye'deki işletmeler için uçtan uca e-ticaret pl
 - 🧾 **Fatura** — e-Arşiv/e-Fatura otomatik kesim + müşteriye PDF maili
 - 📱 **Üyelik** — Telefon OTP (Netgsm) + e-posta, adres defteri, favoriler, iade talebi, destek
 - 🛠️ **Admin Panel** — sipariş/ürün/stok/üye/destek yönetimi, Telegram anlık bildirim + günlük sağlık raporu
-- ⚡ **Dayanıklılık** — ISR önbellekli vitrin (servis kesintisinde bile açık), 8sn sorgu zaman aşımı, markalı hata ekranı
+- ⚡ **Dayanıklılık** — ISR önbelleği + sorgu zaman aşımı + markalı hata ekranı: altyapı kesintisinde vitrin son iyi halini sunmaya devam eder, arıza anında Telegram alarmı
 - 🔒 **Uyum** — KVKK çerez onayı, Turnstile, rate limit, RLS, Sentry; GA4 + Meta Pixel + CAPI + Clarity
 
 **Stack:** Next.js 16 · TypeScript · Tailwind v4 · Supabase · Zustand · Vercel
